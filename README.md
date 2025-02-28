@@ -28,8 +28,7 @@ A modern, interactive chatbot designed to answer "how-to" questions related to f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/cdp-support-chatbot.git
-   cd cdp-support-chatbot
+   git clone https://github.com/ankitkanojiya07/Building-a-Support-Agent-Chatbot-for-CDP
    ```
 
 2. Install dependencies:
